@@ -1,7 +1,7 @@
 # Hotel Management System
 
-This project is a **Hotel Management System** designed to manage hotel operations efficiently.
-It allows users to **book rooms, manage customer details, and handle check-ins/check-outs** easily.
-Admins can view booking history and manage room availability.
-Built using **[mention your tech stack: e.g., Java, MySQL, HTML/CSS, etc.]** for smooth performance.
-The system aims to **automate hotel tasks** and improve overall service management.
+This is a **Hotel Management System** built using **Java**.
+It helps manage hotel operations like **room booking, check-in, and check-out**.
+The system stores and displays **customer and room details** efficiently.
+It provides an easy interface for **admins to manage reservations**.
+The project aims to **simplify and automate hotel management tasks**.
