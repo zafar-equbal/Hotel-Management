@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Food implements Serializable
+class Food implements Serializab
 {
     int itemno;
     int quantity;
