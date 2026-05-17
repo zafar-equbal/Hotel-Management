@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class Food implements Serializable
+    
 {
     int itemno;
     int quantity;
